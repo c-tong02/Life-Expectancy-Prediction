@@ -31,6 +31,6 @@ Se probaron diversos escaladores y modelos de Machine Learning para validar el m
 
 Los resultados de este proyecto son:
 1. El modelo con mejor rendimiento fue utilizando un escalador MinMax Scaler y luego un modelo de Extra Trees Regressor.
-2. Se optimizaron los hiperparámetros del modelo con los valores: {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}
+2. Se optimizaron los hiperparámetros del modelo con los valores: {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}.
 3. Se obtuvo un MSE = 1.84.
-4. Se obtuvo un R2 = 0.98
+4. Se obtuvo un R2 = 0.98.
